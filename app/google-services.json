@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "12619932672",
+    "firebase_url": "https://shubchintak-42a2b.firebaseio.com",
+    "project_id": "shubchintak-42a2b",
+    "storage_bucket": "shubchintak-42a2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12619932672:android:14410c0f4d9a04acf364e5",
+        "android_client_info": {
+          "package_name": "com.example.shubchintak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12619932672-bc92j0m72a54upq4jos0a9duoo6ec80p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shubchintak",
+            "certificate_hash": "1c872c9e700fcb9bc6a3d46273424346cb80dfb5"
+          }
+        },
+        {
+          "client_id": "12619932672-cc6uap35uprjb9au9qa2gfo6eogbnn0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7bkew_Ac6IvkVZ8zblUP5WKR23ld5UeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12619932672-cc6uap35uprjb9au9qa2gfo6eogbnn0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

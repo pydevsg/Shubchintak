@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shubchintak</string>
+    <string name="register">Register</string>
+    <string name="navigation_drawer_open">Open navigation bar</string>
+    <string name="navigation_drawer_close">Close navigation bar</string>
+    <string name="default_notification_channel_id">shubchintak_notificationstr</string>
+
+</resources>
